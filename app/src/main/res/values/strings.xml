@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FilmKu</string>
+    <string name="title_activity_coba">CobaActivity</string>
+
+    <!-- reserved for menu -->
+    <string name="action_settings">Settings</string>
+    <string name="action_now_playing">Now Playing</string>
+    <string name="action_popular">Popular</string>
+    <string name="action_top_rated">Top Rated</string>
+    <string name="action_upcoming">Upcoming</string>
+    <string name="title_activity_movie_detail">MovieDetailActivity</string>
+
+
+
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur ipsum in placerat molestie.  Fusce quis mauris a enim sollicitudin
+    \n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur ipsum in placerat molestie.  Fusce quis mauris a enim sollicitudin</string>
+</resources>
